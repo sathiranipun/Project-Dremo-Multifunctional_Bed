@@ -1,5 +1,5 @@
 # Project Dremo | Multifunctional Bed
-<p>This is made for our level 01 project.. Using ATmega32A micro-controller we designed this.</p> 
+<p>This is made for our level 01 project. Using ATmega32A micro-controller we designed this.</p> 
 
 <h2>Used Modules</h2>
 ATmega32A micro-controller | 16x2 lcd pannels | PIR Sensors | HX711 module | DHT11 Sensor | Loadcell | Gear Motors | Realay Modules | LDR Sensor.
