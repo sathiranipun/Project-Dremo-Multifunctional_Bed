@@ -19,6 +19,8 @@ ATmega32A micro-controller | 16x2 lcd pannels | PIR Sensors | HX711 module | DHT
   <li>Cooling system</li>
 </ul>
 
+<h2>Video</h2>
+<a href="https://youtu.be/Udwb1mu77ZQ"> Youtube Review </a>
 
 <h2>About</h2>
 <p>In this repo ,I have uploaded all the necessory codes and libraries which we used to develop our Multifunctional Bed.</p>
