@@ -8,6 +8,7 @@ ATmega32A micro-controller | 16x2 lcd pannels | PIR Sensors | HX711 module | DHT
 
 <h2>Introduction</h2>
 <p>We all live in an era where the technology is developing day by day. So most of the people spending a very busy life style. They all have a complex tight time schedule for every day. So they are always spending a stressful life.  To reduce stress in our mind and discomfort in our body we want a comfortable and effective sleep. A comfortable sleep is very important to continue our day today work systematically </p>
+<p>As a solution to the above situations we have suggested to design a multi-functional bed. From this we provide people with comfortable sleep and a comfortable on time wake-up.</p>
 
 <h2>Features</h2>
  <ul> 
